@@ -1,3 +1,9 @@
 body{
     background-color: blueviolet;
+
+    a {
+        text-decoration: hidden;
+        color: hsla(110, 50%, 45%, 1);
+      }
+
 }
